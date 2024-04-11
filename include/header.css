@@ -1,0 +1,9 @@
+body{
+  background-image: url("image/francesca-tosolini-6japTIjUQoI-unsplash.jpg");
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: center center;
+  margin-bottom: 200px;
+  background-attachment: fixed;
+  background-size: 100% 900px;
+}
